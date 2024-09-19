@@ -1,0 +1,21 @@
+{
+  "id": "com.timothe.test",
+  "title": "Example FastAPI Timothe Test",
+  "author": "Timothe",
+  "description": "This is an example python app",
+  "tagline": "A great coding adventure",
+  "version": "0.0.1",
+  "healthCheckPath": "/",
+  "httpPort": 8001,
+  "addons": {
+    "localstorage": {},
+    "ldap": {},
+    "proxyAuth": {}
+  },
+  "manifestVersion": 2,
+  "website": "https://timothekali.com",
+  "contactEmail": "support@clourdon.io",
+  "icon": "file://icon.png",
+  "tags": [ "test", "collaboration" ],
+  "mediaLinks": [ "https://i.ebayimg.com/images/g/UYsAAOSw9iplTNIy/s-l400.jpg" ]
+}
